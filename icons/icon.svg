@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F7F3ED" rx="96"/>
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#B8954F" stroke-width="20"/>
+  <path d="M256 96 A160 160 0 0 1 256 416 A80 80 0 0 1 256 256 A80 80 0 0 0 256 96 Z" fill="#C84A3D"/>
+  <circle cx="256" cy="176" r="24" fill="#F7F3ED"/>
+  <circle cx="256" cy="336" r="24" fill="#C84A3D"/>
+  <text x="256" y="468" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="56" fill="#3D352E" font-weight="bold">天机</text>
+</svg>
