@@ -1,0 +1,18 @@
+{
+  "name": "知几六爻",
+  "short_name": "知几六爻",
+  "description": "问事于知几，六爻掌上起",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F3ED",
+  "theme_color": "#F7F3ED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
